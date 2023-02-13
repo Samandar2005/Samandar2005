@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![Git hub snake](https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg)
 
-![Git status](https://github-readme-stats.vercel.app/api?username=Begzod2004&count_private=true&show_icons=true&theme=radical)
+![Git status](https://github-readme-stats.vercel.app/api?username=Samandar2005&count_private=true&show_icons=true&theme=radical)
