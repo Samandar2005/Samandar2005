@@ -1,29 +1,54 @@
-### Hi there 👋
+# Hi there, I'm Samandar! 👋
 
-<!--
-**Samandar2005/Samandar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Backend Developer
 
-Here are some ideas to get you started:
+I am a passionate Backend Developer from Uzbekistan, focusing on building scalable web APIs, microservices, and real-time applications using **Python**, **FastAPI**, and **Django**. I love solving complex architectural problems and optimizing database performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=fff)
-![](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff)
-![](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Postgresql-4169E1?logo=Postgresql&logoColor=fff)
-![](https://img.shields.io/badge/-Sqlite3-003B57?logo=Sqlite3&logoColor=fff)
+### 🛠️ Tech Stack & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![Git hub snake](https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg)
+---
 
-![Git status](https://github-readme-stats.vercel.app/api?username=Samandar2005&count_private=true&show_icons=true&theme=radical)
+### 🏆 Featured Projects
+
+Here are some of my best works showcasing Microservices, Real-time systems, and Secure APIs:
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**📍 Tracking Service**](https://github.com/Samandar2005/fastapi-tracking-service) | FastAPI, Redis, Leaflet | Real-time GPS tracking system with WebSocket updates and interactive map UI. |
+| [**🔐 Auth Microservice**](https://github.com/Samandar2005/fastapi-auth-service) | FastAPI, AsyncPG, JWT | Production-ready Auth service with RBAC, Token Blacklisting, and Poetry manager. |
+| [**💬 Real-time Chat**](https://github.com/Samandar2005/fastapi-chat) | FastAPI, WebSocket, SQLite | Async chat application with history persistence and user authentication. |
+| [**📂 Secure File Server**](https://github.com/Samandar2005/fastapi-file-server) | FastAPI, Fernet, Excel | Secure storage with encryption, SHA-256 deduplication, and rate limiting. |
+| [**🎓 MyCareerPath**](https://github.com/Samandar2005/MyCareerPath) | Django, Bootstrap | Learning Management System (LMS) to track daily study goals and progress. |
+| [**🤖 Subscription Bot**](https://github.com/Samandar2005/telegram-subscription-bot) | Python, Aiogram, SQLite | Telegram bot with forced subscription check, admin dashboard, and broadcasting. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<a href="https://github.com/Samandar2005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samandar2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar2005&layout=compact&theme=tokyonight"/>
+</a>
+</p>
+
+---
+
+### 📫 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/samandar-boriyev)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/SizningTelegramUsernamingiz)
