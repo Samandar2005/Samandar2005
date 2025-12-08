@@ -41,8 +41,8 @@ Here are some of my best works showcasing Microservices, Real-time systems, and 
 
 <p align="left">
 <a href="https://github.com/Samandar2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samandar2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar2005&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samandar2005&theme=tokyonight&hide_border=true" alt="Samandar2005's GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samandar2005&theme=tokyonight" alt="Samandar2005's Top Languages" />
 </a>
 </p>
 
